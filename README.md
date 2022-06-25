@@ -25,4 +25,20 @@ Si tienes alguna duda o problema que no se puede resolver en el proyecto te anim
 
 ## Recursos
 
-Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps](https://www.openpeeps.com) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis.
+Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps](https://www.openpeeps.com) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis. 
+
+## Markdown 
+Para aprender más sobre Markdown puedes visitar el siguiente enlace [Guía Básica Markdown](https://www.markdownguide.org/basic-syntax/) aquí podrás encontrar información sobre cómo personalizar tu archivo README.md 
+
+Tips rápidos: 
+
+**Para agregar texto en negrita simplemente envuelve el texto entre doble asteriscos** 
+
+*Para agregar texto en italic simplemente envuelve el texto entre asteriscos* 
+
+Puedes usar triple backticks para insertar un cuadro de código 
+```bash
+git clone https://github.com/PedroSubia/portfolio-template.git
+``` 
+### Emojis en Markdown :boom::boom::collision:
+Hoy en día los emojis son normales, asi que para agregarlos en tu README.md ingresa al siguiente enlace [Emojis en Markdown](https://www.webfx.com/tools/emoji-cheat-sheet/):running: y empieza a usarlos.
